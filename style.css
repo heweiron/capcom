@@ -65,6 +65,9 @@
   background: #023666 !important;
 }
 
+.cog.big.grey.icon {
+  height: 20px;
+}
 .ui.navMenu.item {
   color: white;
   height: 40px;
@@ -185,6 +188,7 @@ img {
 .content {
   font-size: 22px;
   margin-top: 12px;
+  color: #004099;
 }
 
 .item {
